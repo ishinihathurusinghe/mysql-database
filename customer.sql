@@ -1,4 +1,4 @@
-drop database if exists IT236DB                    ;
+drop database if exists IT236DB                     ;
 create database IT236DB;
 
 USE IT236DB;
